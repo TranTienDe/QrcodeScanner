@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="iOS/QrcodeScanner.iOS.csproj" GitUserInfo="UsingMD">
+﻿<Properties StartupItem="Droid/QrcodeScanner.Droid.csproj" GitUserInfo="UsingMD">
   <MonoDevelop.Ide.Workbench ActiveDocument="QrcodeScanner Status">
     <Files>
       <File FileName="QrcodeScanner Status" />
@@ -8,5 +8,5 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.QrcodeScanner.Droid PreferredExecutionTarget="Android.G37GLMC552701393" />
-  <MonoDevelop.Ide.ItemProperties.QrcodeScanner.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3F1E412-27CC-4859-A24A-02960A8AE6E4" />
+  <MonoDevelop.Ide.ItemProperties.QrcodeScanner.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.12FB25FA-ADC8-4068-95E1-7A44F4B7825E" />
 </Properties>
