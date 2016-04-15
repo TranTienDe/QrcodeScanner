@@ -5,9 +5,8 @@
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.QrcodeScanner.Droid PreferredExecutionTarget="Android.G37GLMC552701393" />
   <MonoDevelop.Ide.ItemProperties.QrcodeScanner.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3F1E412-27CC-4859-A24A-02960A8AE6E4" />
 </Properties>

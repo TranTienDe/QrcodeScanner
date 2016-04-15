@@ -24,7 +24,8 @@ namespace QrcodeScanner
 				}
 			};
 
-			MainPage = new NavigationPage(content);
+			//MainPage = new NavigationPage(content);
+			MainPage = new NavigationPage( new HomePage());
 		}
 
 		protected override void OnStart()
