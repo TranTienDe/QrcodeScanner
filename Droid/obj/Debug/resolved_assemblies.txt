@@ -14,6 +14,11 @@
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/Xamarin.Forms.Core.dll
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
+/Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/ZXing.Net.Mobile.Forms.Android.dll
+/Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/ZXing.Net.Mobile.Forms.dll
+/Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/zxing.portable.dll
+/Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/ZXingNetMobile.dll
+/Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/ZXing.Net.Mobile.Core.dll
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/QrcodeScanner.dll
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/mscorlib.dll
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/System.Runtime.Serialization.dll
@@ -39,7 +44,4 @@
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/System.Dynamic.Runtime.dll
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/System.IO.dll
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/System.Text.RegularExpressions.dll
-/Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/ZXing.Net.Mobile.Forms.dll
-/Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/zxing.portable.dll
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/System.Text.Encoding.dll
-/Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/ZXing.Net.Mobile.Core.dll

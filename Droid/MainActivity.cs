@@ -24,6 +24,7 @@ namespace QrcodeScanner.Droid
 
 			LoadApplication(new App());
 		}
+
 	}
 }
 

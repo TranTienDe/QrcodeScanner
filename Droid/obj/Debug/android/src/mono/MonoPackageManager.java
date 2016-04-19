@@ -103,6 +103,11 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Core.dll",
 		"Xamarin.Forms.Xaml.dll",
 		"Xamarin.Forms.Platform.dll",
+		"ZXing.Net.Mobile.Forms.Android.dll",
+		"ZXing.Net.Mobile.Forms.dll",
+		"zxing.portable.dll",
+		"ZXingNetMobile.dll",
+		"ZXing.Net.Mobile.Core.dll",
 		"QrcodeScanner.dll",
 		"System.ServiceModel.Internals.dll",
 		"System.Threading.dll",
@@ -124,10 +129,7 @@ class MonoPackageManager_Resources {
 		"System.Dynamic.Runtime.dll",
 		"System.IO.dll",
 		"System.Text.RegularExpressions.dll",
-		"ZXing.Net.Mobile.Forms.dll",
-		"zxing.portable.dll",
 		"System.Text.Encoding.dll",
-		"ZXing.Net.Mobile.Core.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

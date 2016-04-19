@@ -2314,6 +2314,7 @@ containing a value of this type.
         public static int clip_horizontal=0x7f0a001b;
         public static int clip_vertical=0x7f0a001c;
         public static int collapseActionView=0x7f0a0033;
+        public static int contentFrame=0x7f0a0083;
         public static int contentPanel=0x7f0a0046;
         public static int custom=0x7f0a004a;
         public static int customPanel=0x7f0a0049;
@@ -2473,10 +2474,12 @@ containing a value of this type.
         public static int support_simple_spinner_dropdown_item=0x7f03002f;
         public static int tabbar=0x7f030030;
         public static int toolbar=0x7f030031;
+        public static int zxingscanneractivitylayout=0x7f030032;
+        public static int zxingscannerfragmentlayout=0x7f030033;
     }
     public static final class string {
         public static int ApplicationName=0x7f05001f;
-        public static int Hello=0x7f05001e;
+        public static int Hello=0x7f050020;
         public static int abc_action_bar_home_description=0x7f05000c;
         public static int abc_action_bar_home_description_format=0x7f05000d;
         public static int abc_action_bar_home_subtitle_description_format=0x7f05000e;
@@ -2495,6 +2498,7 @@ containing a value of this type.
         public static int abc_shareactionprovider_share_with_application=0x7f05001b;
         public static int abc_toolbar_collapse_description=0x7f05001c;
         public static int appbar_scrolling_view_behavior=0x7f05000b;
+        public static int library_name=0x7f05001e;
         public static int mr_media_route_button_content_description=0x7f050000;
         public static int mr_media_route_chooser_searching=0x7f050001;
         public static int mr_media_route_chooser_title=0x7f050002;
