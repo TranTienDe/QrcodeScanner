@@ -130,6 +130,7 @@ class MonoPackageManager_Resources {
 		"System.IO.dll",
 		"System.Text.RegularExpressions.dll",
 		"System.Text.Encoding.dll",
+		"System.Diagnostics.Tools.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

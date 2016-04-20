@@ -1,4 +1,14 @@
 /Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/QrcodeScanner.Views.MainPage.xaml.g.cs
+/Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/QrcodeScanner.Layouts.StackLayout.Spacing.xaml.g.cs
+/Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/QrcodeScanner.Layouts.StackLayout.ComplexLayout.xaml.g.cs
+/Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/QrcodeScanner.Views.QRScanner.xaml.g.cs
+/Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/QrcodeScanner.Views.WebView.xaml.g.cs
+/Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/QrcodeScanner.Views.MainPage.xaml
+/Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/QrcodeScanner.Layouts.StackLayout.Spacing.xaml
+/Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/QrcodeScanner.Layouts.StackLayout.ComplexLayout.xaml
+/Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/QrcodeScanner.Views.QRScanner.xaml
+/Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/QrcodeScanner.Views.WebView.xaml
 /Users/tiende/Projects/QrcodeScanner/QrcodeScanner/bin/Debug/QrcodeScanner.dll.mdb
 /Users/tiende/Projects/QrcodeScanner/QrcodeScanner/bin/Debug/QrcodeScanner.dll
 /Users/tiende/Projects/QrcodeScanner/QrcodeScanner/obj/Debug/QrcodeScanner.dll

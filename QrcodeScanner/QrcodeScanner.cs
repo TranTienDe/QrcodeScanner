@@ -9,7 +9,12 @@ namespace QrcodeScanner
 		public App()
 		{
 			//MainPage = new NavigationPage(content);
-			MainPage = new NavigationPage( new HomePage());
+			//MainPage = new NavigationPage( new HomePage());
+			//MainPage = new NavigationPage(new CustomPageCameraSmall());
+			//MainPage = new MainPage();
+			//MainPage = new Spacing();
+			//MainPage = new ComplexLayout();
+			MainPage = new NavigationPage(new QRScanner());
 		}
 
 		protected override void OnStart()

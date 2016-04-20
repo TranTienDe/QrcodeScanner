@@ -1,14 +1,47 @@
-﻿<Properties StartupItem="Droid/QrcodeScanner.Droid.csproj" GitUserInfo="UsingMD">
-  <MonoDevelop.Ide.Workbench ActiveDocument="QrcodeScanner/QRcode/CustomPage.cs">
+﻿<Properties StartupItem="iOS/QrcodeScanner.iOS.csproj" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
     <Files>
-      <File FileName="QrcodeScanner/QRcode/CustomPage.cs" Line="48" Column="29" />
+      <File FileName="QrcodeScanner/Views/QRScanner.xaml" Line="17" Column="74" />
+      <File FileName="Droid/MainActivity.cs" Line="31" Column="1" />
+      <File FileName="QrcodeScanner/Views/QRScanner.xaml.cs" Line="18" Column="26" />
+      <File FileName="QrcodeScanner/Layouts/StackLayout/ComplexLayout.xaml" Line="29" Column="19" />
+      <File FileName="QrcodeScanner/QrcodeScanner.cs" Line="25" Column="36" />
+      <File FileName="QrcodeScanner/Views/WebView.xaml" Line="10" Column="48" />
+      <File FileName="QrcodeScanner/Views/WebView.xaml.cs" Line="12" Column="26" />
+      <File FileName="Droid/packages.config" Line="9" Column="12" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="8" Column="12" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/9.8.0.244/lib/mono/2.1/Xamarin.iOS.Common.targets" Line="1" Column="1" />
+      <File FileName="iOS/packages.config" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/AppDelegate.cs" Line="6" Column="13" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QrcodeScanner" expanded="True">
+            <Node name="QrcodeScanner" expanded="True">
+              <Node name="Layouts" expanded="True">
+                <Node name="StackLayout" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="QRScanner.xaml" expanded="True" />
+                <Node name="WebView.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="QrcodeScanner.iOS" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.QrcodeScanner.Droid PreferredExecutionTarget="Android.G37GLMC552701393" />
-  <MonoDevelop.Ide.ItemProperties.QrcodeScanner.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.12FB25FA-ADC8-4068-95E1-7A44F4B7825E" />
+  <MonoDevelop.Ide.ItemProperties.QrcodeScanner.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
 </Properties>

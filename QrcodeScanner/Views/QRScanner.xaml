@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+		x:Class="QrcodeScanner.QRScanner"
+		Title="QRcode Scanner">
+	<ContentPage.Content>
+		<StackLayout Orientation="Vertical" Padding="2">
+		<Grid x:Name="cameraView" >
+			<Grid.RowDefinitions>
+				<RowDefinition Height="200"/>
+			</Grid.RowDefinitions>
+			<Grid.ColumnDefinitions>
+			 	<ColumnDefinition Width="*"/>
+			</Grid.ColumnDefinitions>
+		</Grid>
+
+		<StackLayout Orientation="Vertical" Padding="2" BackgroundColor="Gray">
+			<Label Text="ID CARD:" VerticalOptions="Start" HorizontalOptions="FillAndExpand" FontSize="14"/>
+			<Entry x:Name="edtID" Text="Enter ID Card" VerticalOptions="Start" HorizontalOptions="FillAndExpand"/>
+		</StackLayout>
+
+		<StackLayout Orientation="Horizontal" Padding="2">
+			<Button Clicked="Handle_ClickedRefresh" Text="Refresh" VerticalOptions="Center" HorizontalOptions="EndAndExpand" BackgroundColor="#33B5E5"/>
+			<Button Clicked="Handle_ClickedOK" Text="OK" VerticalOptions="Center" HorizontalOptions="End" BackgroundColor="#33B5E5" />
+		</StackLayout>
+	</StackLayout>
+	</ContentPage.Content> 
+</ContentPage>

@@ -45,3 +45,4 @@
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/System.IO.dll
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/System.Text.RegularExpressions.dll
 /Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/System.Text.Encoding.dll
+/Users/tiende/Projects/QrcodeScanner/Droid/obj/Debug/android/assets/System.Diagnostics.Tools.dll
